@@ -1,5 +1,6 @@
 # Research Study
-
+This repository is made to study any research area.
+ 
 ## Contents
 ```
 ├── contents
