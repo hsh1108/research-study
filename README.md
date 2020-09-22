@@ -1,5 +1,5 @@
 # Research Study
-This repository is made to study any research area.
+This repository is created to study research areas of personal interest.
  
 ## Contents
 ```
