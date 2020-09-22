@@ -1,0 +1,10 @@
+# large folder
+
+miosqp/
+data/*.pt
+data/raw/cifar*
+data/raw/mnist*
+data/raw/t*
+data/MNIST
+toy_experiment
+!results/.keep
