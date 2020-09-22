@@ -10,5 +10,4 @@ This repository is created to study research areas of personal interest.
 ```
 
 ## Links
-
- [calibration](contents/calibration.ipynb).
+ - [calibration](contents/calibration.ipynb)
